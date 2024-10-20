@@ -1,7 +1,7 @@
 ### Ku 🦧
 
 I`m Sasha, ISAT student backend developer. Also i'm interested in game developement, self-taught [3D artist](https://www.artstation.com/siynoog). 
-- 🚴‍♂️ I'm applying for an golang internship rn
+- 🚴‍♂️ Looking for a golang job, opened to offers
 - 🍖 Practice: [leetcode](https://leetcode.com/gulixandr/)
 ## Stack
 <p>
